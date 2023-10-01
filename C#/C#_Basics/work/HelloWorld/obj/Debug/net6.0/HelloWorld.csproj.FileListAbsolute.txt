@@ -1,0 +1,15 @@
+F:\backend\backend_development\C#\C#_Basics\work\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+F:\backend\backend_development\C#\C#_Basics\work\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+F:\backend\backend_development\C#\C#_Basics\work\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+F:\backend\backend_development\C#\C#_Basics\work\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+F:\backend\backend_development\C#\C#_Basics\work\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+F:\backend\backend_development\C#\C#_Basics\work\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+F:\backend\backend_development\C#\C#_Basics\work\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+F:\backend\backend_development\C#\C#_Basics\work\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+F:\backend\backend_development\C#\C#_Basics\work\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+F:\backend\backend_development\C#\C#_Basics\work\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+F:\backend\backend_development\C#\C#_Basics\work\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+F:\backend\backend_development\C#\C#_Basics\work\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+F:\backend\backend_development\C#\C#_Basics\work\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+F:\backend\backend_development\C#\C#_Basics\work\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+F:\backend\backend_development\C#\C#_Basics\work\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
