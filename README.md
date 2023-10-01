@@ -2,35 +2,20 @@
 
 #### 1、学习目标(learning objectives)
 
-##### Java
+* C#
+* Java
+* Python
+* C/C++
 
 
 
-##### C#
+#### 2、Java
 
 
 
-##### Python
+#### 3、C#
 
-
-
-##### C/C++
-
-
-
-
-
-#### Java
-
-
-
-
-
-
-
-#### C#
-
-##### C#基础(C#_basic)
+##### 3.1 C#基础(C#_basic)
 
 
 
