@@ -1,0 +1,13 @@
+F:\backend\backend_development\C#\C#_Basics\work\01HelloWorld\Netcore\bin\Debug\netcoreapp3.1\Netcore.exe
+F:\backend\backend_development\C#\C#_Basics\work\01HelloWorld\Netcore\bin\Debug\netcoreapp3.1\Netcore.deps.json
+F:\backend\backend_development\C#\C#_Basics\work\01HelloWorld\Netcore\bin\Debug\netcoreapp3.1\Netcore.runtimeconfig.json
+F:\backend\backend_development\C#\C#_Basics\work\01HelloWorld\Netcore\bin\Debug\netcoreapp3.1\Netcore.runtimeconfig.dev.json
+F:\backend\backend_development\C#\C#_Basics\work\01HelloWorld\Netcore\bin\Debug\netcoreapp3.1\Netcore.dll
+F:\backend\backend_development\C#\C#_Basics\work\01HelloWorld\Netcore\bin\Debug\netcoreapp3.1\Netcore.pdb
+F:\backend\backend_development\C#\C#_Basics\work\01HelloWorld\Netcore\obj\Debug\netcoreapp3.1\Netcore.csprojAssemblyReference.cache
+F:\backend\backend_development\C#\C#_Basics\work\01HelloWorld\Netcore\obj\Debug\netcoreapp3.1\Netcore.AssemblyInfoInputs.cache
+F:\backend\backend_development\C#\C#_Basics\work\01HelloWorld\Netcore\obj\Debug\netcoreapp3.1\Netcore.AssemblyInfo.cs
+F:\backend\backend_development\C#\C#_Basics\work\01HelloWorld\Netcore\obj\Debug\netcoreapp3.1\Netcore.csproj.CoreCompileInputs.cache
+F:\backend\backend_development\C#\C#_Basics\work\01HelloWorld\Netcore\obj\Debug\netcoreapp3.1\Netcore.dll
+F:\backend\backend_development\C#\C#_Basics\work\01HelloWorld\Netcore\obj\Debug\netcoreapp3.1\Netcore.pdb
+F:\backend\backend_development\C#\C#_Basics\work\01HelloWorld\Netcore\obj\Debug\netcoreapp3.1\Netcore.genruntimeconfig.cache
