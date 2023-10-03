@@ -71,5 +71,25 @@ dotnet new globaljson --sdk-version 3.1.426 --force
 
 
 
+##### 2.3 切换.NET SDK版本的误区
+
+当你在C盘执行了该条指令`dotnet new globaljson --sdk-version xxx --force`，你可能会出现这样的问题：
+
+* 困惑为什么在C盘中创建了`global.json`文件，且指定了对应的版本，但是为什么在其他磁盘(D/F)还是原来版本(或者当前安装的最新版本)。
+
+**原因**：
+
+> 通过使用命令"dotnet new globaljson --sdk-version xxx --force"来切换指定版本的DotNet SDK只会在当前工作目录生效，而其他盘符仍然使用原来的版本。这是因为DotNet SDK的版本是在每个工作目录中进行设置的，而**不是全局设置**。
+
+所以，当你在某个工作目录中更改了版本后，只有在该工作目录下的项目才会使用新的版本，其他工作目录中的项目仍然使用原来的版本。
+
+
+
+对此，如果你的电脑上安装了多个`SDK`，有如下建议:
+
+1. 你在需要创建项目的文件夹下先通过上述指令创建一个`global.json`文件，来指定对应的`SDK`版本号。
+2. 通过`dotnet --version`或者`dotnet --info`查看当前目录下版本是否切换成功。
+3. 最后，你就可以创建一个对应SDK版本的项目了！
+
 
 
