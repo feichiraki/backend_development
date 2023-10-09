@@ -93,3 +93,62 @@ dotnet new globaljson --sdk-version 3.1.426 --force
 
 
 
+
+
+#### 3、dotnet 命令
+
+##### 3.1 VS Code添加一个解决方案
+
+1. 创建一个项目
+2. 创建一个解决方案
+3. 将项目添加到解决方案中
+
+第一步，在一个名为`project`目录下创建一个控制台项目：
+
+```bash
+dotnet new console
+# 或者直接通过下面命令创建一个名为 project 的项目
+dotnet new console --name project
+```
+
+
+
+第二步，创建一个解决方案(注意：此时解决方案为空，需要我们手动添加项目进入)：
+
+```bash
+# 通过 dotnet new 命令创建 解决方案
+# 解决方案sln会根据当前所在项目的项目名称来命名
+dotnet new sln
+```
+
+
+
+第三步，将项目添加到解决方案中：
+
+```bash
+# 我们只需要将后缀为 .csproj 的文件夹添加到解决方案即可
+dotnet sln add ./project.csproj
+# 或者我们添加项目文件也会自动进行上述操作(返回上级目录，将项目添加到解决方案中)
+dotnet sln add ../project
+```
+
+
+
+
+
+##### 3.2 创建一个类文件(.cs)
+
+
+
+
+
+##### 3.3 创建一个忽略文件(git仓库)
+
+在我们将项目提交到远程仓库时，我们常常需要忽略一些不必要的文件，这些文件会影响数据传输，即远程仓库大小。在git仓库中，我们可以通过`.gitignore`文件来忽略C#项目中的文件，对其不进行提交。
+
+在`dotnet new`命令中，恰好可以生成一个`.gitignore`的模板，而无需我们自己去忽略内容，命令如下：
+
+```bash
+dotnet new gitignore
+```
+

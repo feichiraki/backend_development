@@ -1,29 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "F:\\backend\\backend_development\\C#\\C#_Basics\\work\\01HelloWorld\\Netcore\\Netcore.csproj": {}
+    "D:\\大学学习课程\\我的学习\\后端\\backend_development\\C#\\C#_Basics\\work\\01HelloWorld\\Netcore\\Netcore.csproj": {}
   },
   "projects": {
-    "F:\\backend\\backend_development\\C#\\C#_Basics\\work\\01HelloWorld\\Netcore\\Netcore.csproj": {
+    "D:\\大学学习课程\\我的学习\\后端\\backend_development\\C#\\C#_Basics\\work\\01HelloWorld\\Netcore\\Netcore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\backend\\backend_development\\C#\\C#_Basics\\work\\01HelloWorld\\Netcore\\Netcore.csproj",
+        "projectUniqueName": "D:\\大学学习课程\\我的学习\\后端\\backend_development\\C#\\C#_Basics\\work\\01HelloWorld\\Netcore\\Netcore.csproj",
         "projectName": "Netcore",
-        "projectPath": "F:\\backend\\backend_development\\C#\\C#_Basics\\work\\01HelloWorld\\Netcore\\Netcore.csproj",
-        "packagesPath": "C:\\Users\\王樑\\.nuget\\packages\\",
-        "outputPath": "F:\\backend\\backend_development\\C#\\C#_Basics\\work\\01HelloWorld\\Netcore\\obj\\",
+        "projectPath": "D:\\大学学习课程\\我的学习\\后端\\backend_development\\C#\\C#_Basics\\work\\01HelloWorld\\Netcore\\Netcore.csproj",
+        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
+        "outputPath": "D:\\大学学习课程\\我的学习\\后端\\backend_development\\C#\\C#_Basics\\work\\01HelloWorld\\Netcore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\王樑\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -35,22 +38,30 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
         }
       }
     }
